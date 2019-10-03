@@ -1,9 +1,9 @@
-## Spider
+# Spider
 
-# Intro
+### Intro
 web crawler written with Python3 and MongoDB DataBase Management System
 
-# Package
+### Package
 * BeautifulSoup
 * requests
 * urllib
